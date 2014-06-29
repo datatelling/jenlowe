@@ -9,7 +9,7 @@ echo '
 		<meta name="description" content="" />
 
 		<link href="favicon.ico" rel="shortcut icon"  />
-		<link href="/css/style.css" rel="stylesheet" />
+		<link href="http://jenlowe.net/css/style.css" rel="stylesheet" />
 		
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 	</head>
