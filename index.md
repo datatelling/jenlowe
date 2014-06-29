@@ -1,6 +1,3 @@
-# THIS is the first page
+# Jen Lowe
 
 ## check out my [crazywall](crazywall/)
-
-Author: Jen
-Year: 2014

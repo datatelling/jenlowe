@@ -3,7 +3,7 @@ echo '
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>YOUR WEB TITLE</title>
+		<title>jen lowe</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="keywords" content="" />
 		<meta name="description" content="" />
