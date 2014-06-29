@@ -8,7 +8,7 @@ High-Rise, _J.G. Ballard_
 
 **Autobiography of Red**, _Anne Carson_
 
-Cutting Teeth, Julia Fierro
+Cutting Teeth, _Julia Fierro_
 
 Bird by Bird: Some Instructions on Writing and Life, _Anne Lamott_
 
@@ -102,7 +102,7 @@ Processing: A Programming Handbook for Visual Designers and Artists, _Casey Reas
 
 Visualize This, _Nathan Yau_
 
-**Eleanor Roosevelt: Volume 1, 1884-1933, _Blanche Wiesen Cook_
+**Eleanor Roosevelt: Volume 1, 1884-1933**, _Blanche Wiesen Cook_
 
 The Awakening, _Kate Chopin_
 
