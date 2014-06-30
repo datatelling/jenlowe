@@ -1,14 +1,15 @@
-# Jen Lowe
+# jen lowe
 
 is a work in progress
 
-## writing
+### writing
 [Clearing Space](http://stet.editorially.com/articles/clearing-space/), co-founding the School for Poetic Computation
 
-## reading
-[books](http://jenlowe.net/reading/books)
-[articles](http://jenlowe.net/reading/unreadread)
-
-## projects
+### projects
 
 [one human heartbeat](http://onehumanheartbeat.com/)
+
+### reading
+[books](http://jenlowe.net/reading/books)
+
+[articles](http://jenlowe.net/reading/unreadread)

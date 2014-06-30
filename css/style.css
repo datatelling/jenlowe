@@ -14,9 +14,6 @@
 
 }
 
-
-
-
 @font-face {
     font-family: 'allerbold';
     src: url('aller_bd-webfont.eot');
@@ -29,9 +26,6 @@
 
 }
 
-
-
-
 @font-face {
     font-family: 'allerbold_italic';
     src: url('aller_bdit-webfont.eot');
@@ -43,9 +37,6 @@
     font-style: normal;
 
 }
-
-
-
 
 @font-face {
     font-family: 'alleritalic';
@@ -60,15 +51,45 @@
 }
 
 body {
-	font:15px allerregular;
+	font:16px allerregular;
 	margin-left: 100px;
 	margin-top: 40px;
 }
 
+footer {
+    margin-top: 100px;
+    font:12px allerregular;
+}
+
+h3 {
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+a:link {
+    text-decoration: none;
+    color: #2528DB;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #2528DB;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #FF00FF;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #0000FF;
+}
+
 strong {
-	font:15px allerbold;
+	font:16px allerbold;
 }
 
 em {
-	font:15px alleritalic;
+	font:16px alleritalic;
 }
