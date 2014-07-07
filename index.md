@@ -12,13 +12,13 @@ is a work in progress
 ### press
 [This Woman's Online Heartbeat...](http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self) at *Fast Company*
 
+### bio 
+[current and previous](http://jenlowe.net/bio)
+
 ### reading
 [books](http://jenlowe.net/reading/books)
 
 [articles](http://jenlowe.net/reading/unreadread)
-
-### bio 
-[current and previous](http://jenlowe.net/bio)
 
 ### also known as 
 [datatelling](http://datatelling.com)
