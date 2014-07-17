@@ -31,20 +31,3 @@ function createMemoryDivs() {
 	// console.log(memories);
 
 }
-
-
-
-
-////this works as it should
-// function visualizeit() {
-
-// 	var svgContainer = d3.select("#wrapper").append("svg")
-// 	                                    .attr("width", 200)
-// 	                                    .attr("height", 200);
-
-// 	var circles = svgContainer.selectAll("circle")
-// 	                          .data(memorydata.memories)
-// 	                          .enter()
-// 	                          .append("circle");
-
-// }
