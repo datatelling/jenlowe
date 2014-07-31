@@ -10,12 +10,11 @@ d3.json("memories.json", function(error, json) {
 
 function createMemoryDivs() {
 
-	var memories = d3.select("#wrapper").selectAll("div")
+	var memories = d3.select("#memorywrapper").selectAll("div")
 	                                    .data(memorydata.memories)
 	                                    .enter()
 	                          			.append("div")
-	                          			.attr("class", "memory");
-
+	                          			.attr("class", function(d) {return "memory " + d.category + " " + d.subcategory});
 	memories.append("p")
 	        .attr("class", "firstName")
 	        .text(function(d) {return d.firstName})
