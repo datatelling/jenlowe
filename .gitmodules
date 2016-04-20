@@ -3,4 +3,4 @@
 	url = https://github.com/erusev/parsedown.git
 [submodule "memories"]
 	path = memories
-	url = git@github.com:datatelling/memories.git
+	url = https://github.com/datatelling/memories.git
