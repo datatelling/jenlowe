@@ -1,10 +1,10 @@
-# jen lowe
+﻿# jen lowe
 
 is from the desert.
 
 <br />
 
-Jen is currently researching radical healing as a community herbalist and coach based in Brooklyn, NY. Her witchy work is based at [Gather and Hold](http://gatherandhold.com). She writes an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you can subscribe to here:
+Jen is a gonzo futurist based in Brooklyn, NY and Buenos Aires, Argentina. She writes an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you can subscribe to here:
 
  <form action="https://tinyletter.com/jenlowe" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jenlowe', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"></label></p><p><input type="text" style="width:140px;" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><p style="margin-top:-22px; margin-left:150px;"><input type="submit" value="Subscribe" /></p></form>
 
