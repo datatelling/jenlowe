@@ -6,7 +6,7 @@
 		<?php
 			include("../parsedown/Parsedown.php");
 			$Parsedown = new Parsedown();
-			echo $Parsedown->text(file_get_contents ('thestream.md'));
+			echo $Parsedown->text(file_get_contents ('no.md'));
 		?>
 
 	</section>
