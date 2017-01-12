@@ -106,6 +106,8 @@ We march because
 
 We march because fuck you, that’s why. We march because power needs to be reminded what real citizenship looks like.
 
+----------
+
 <br /><br /><br />
 
 ## Appendix
@@ -113,12 +115,20 @@ We march because fuck you, that’s why. We march because power needs to be remi
 <br />
 
 Arizona Social Studies Standard Articulated by Grade Level Kindergarten
+<br />
 Strand 3: Civics/Government
+<br />
 Performance Objective 2. Recognize the rights and responsibilities of citizenship:
+<br />
 a. elements of fair play, good sportsmanship, and the idea of treating others the way you want to be treated
+<br />
 b. importance of participation and cooperation in a classroom and community 
+<br />
 c. why there are rules and the consequences for violating them 
+<br />
 d. responsibility of voting (every vote counts)
+
+----------
 
 <br /><br /><br />
 
