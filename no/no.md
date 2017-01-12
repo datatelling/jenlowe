@@ -121,13 +121,9 @@ We march because power needs to be reminded what real citizenship looks like.
 <br />
 
 [Arizona Social Studies Standard Articulated by Grade Level Kindergarten](https://cms.azed.gov/home/GetDocumentFile?id=550c589faadebe15d072aa12)
-
 <br />
-
 Strand 3: Civics/Government
-
 <br />
-
 Performance Objective 2. Recognize the rights and responsibilities of citizenship:
 
 <br />
