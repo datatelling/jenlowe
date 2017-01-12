@@ -106,9 +106,11 @@ We march because
 
 We march because fuck you, that’s why. We march because power needs to be reminded what real citizenship looks like.
 
+<br /><br />
+
 ----------
 
-<br /><br /><br />
+<br /><br />
 
 ## Appendix
 
@@ -128,9 +130,11 @@ c. why there are rules and the consequences for violating them
 <br />
 d. responsibility of voting (every vote counts)
 
+<br /><br />
+
 ----------
 
-<br /><br /><br />
+<br /><br />
 
 ## References
 
