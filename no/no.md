@@ -10,7 +10,7 @@ When I was a kid in the 80s & 90s, every time I went with my grandfather to the 
 
 <br />
 
-During the 2000 holiday season I worked at Borders in the Mall. (I got the gig because my friend worked there; I needed health insurance and Borders only had a one month waiting period.) One day I was working the register and an older white man handed me a credit card that wasn’t signed; I asked for his ID. (We still did that in those days.) He screamed at me for “disrespecting” him by asking for his ID, told me someday my job would be done by a computer, tore up the receipt, threw it in my face, and spat at me. (I never did get the health insurance; due to a “clerical error” in HR I was never given the paperwork, missed the deadline to apply, and would need to wait a year to apply again. Whoops, my manager said, sorry.)
+During the 2000 holiday season I worked at Borders in The Mall. (I got the gig because my friend worked there; I needed health insurance and Borders only had a one month waiting period.) One day I was working the register and an older white man handed me a credit card that wasn’t signed; I asked for his ID. (We still did that in those days.) He screamed at me for “disrespecting” him by asking for his ID, told me someday my job would be done by a computer, tore up the receipt, threw it in my face, and spat at me. (I never did get the health insurance; due to a “clerical error” in HR I was never given the paperwork, missed the deadline to apply, and would need to wait a year to apply again. Whoops, my manager said, sorry.)
 
 <br />
 
