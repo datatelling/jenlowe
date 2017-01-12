@@ -72,7 +72,7 @@ Every day a new poll, a new number to call. I pick up the phone. I’m worried t
 
 <br />
 
-I first recognized complexity paralysis when I felt it rising in me and around me when I was teaching high school at the beginning of No Child Left Behind, when all lesson plans had to be precisely aligned, moment-by-moment, with the state standards, so no district / school / teacher could be sued, in the event of a student failing a high-stakes test, for failure to provide “opportunity to learn.” The exercise was so convoluted and degrading that it sapped the creative energy from teachers and classrooms nationwide, paving the way for online curriculum that was “better” than teachers because it came, out-of-the-box, aligned with the standards. (The Arizona high school standards “placemat” remains a classic in the complexity paralysis genre; “best to print on 11X17 paper.”) 
+I first recognized complexity paralysis when I felt it rising in me and around me as a high school teacher during the beginning of No Child Left Behind, when all lesson plans had to be precisely aligned, moment-by-moment, with the state standards, so no district / school / teacher could be sued, in the event of a student failing a high-stakes test, for failure to provide “opportunity to learn.” The exercise was so convoluted and degrading that it sapped the creative energy from teachers and classrooms nationwide, paving the way for online curriculum that was “better” than teachers because it came, out-of-the-box, aligned with the standards. (The Arizona high school standards “placemat” remains a classic in the complexity paralysis genre; “best to print on 11X17 paper.”) 
 
 <br />
 
@@ -100,7 +100,7 @@ We march because
 
 <br /><br /><br />
 
-NO. 
+# NO. 
 
 <br /><br /><br />
 
@@ -122,7 +122,7 @@ d. responsibility of voting (every vote counts)
 
 <br />
 
-References
+## References
 
 (to come)
 
