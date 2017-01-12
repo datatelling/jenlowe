@@ -104,7 +104,11 @@ We march because
 
 <br />
 
-We march because fuck you, that’s why. We march because power needs to be reminded what real citizenship looks like.
+We march because fuck you, that’s why.
+
+<br />
+
+We march because power needs to be reminded what real citizenship looks like.
 
 <br /><br />
 
