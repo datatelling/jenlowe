@@ -42,21 +42,21 @@ I scan fast, can’t wrap my mind around it. In 10 minutes, the Trump update is 
 
 <br />
 
-- refusing to answer questions
-- unresolved conflicts of interest
-- glibly referencing Nazi Germany
-- “Trump team at the Sessions hearing just passed out a dossier citing an article about "how black Democrats stole votes"” x2
-- some argument about Buzzfeed and CNN that is difficult to parse at a glance
-- the black representative has to testify last
-- a man’s opinions on “the demagogue” and “the way”
-- a man’s opinion on “the road to authoritarianism”
-- reporters being threatened with being thrown out if they try to ask questions x2
-- CNN’s response to Trump’s accusations of false reporting
-- a movement to #StopSessions
-- a man’s opinions
-- a number to call to resist Sessions
-- a man reporting ethics lawyer’s reaction to Trump’s plan
-- life in authoritarian states is mostly boring and tolerable
+- [refusing to answer questions](https://twitter.com/stuntbox/status/819259559009284096)
+- [unresolved conflicts of interest](https://twitter.com/beccarosen/status/819259497902383104)
+- [glibly referencing Nazi Germany](https://twitter.com/JGreenblattADL/status/819244334893694982)
+- [“Trump team at the Sessions hearing just passed out a dossier citing an article about "how black Democrats stole votes"”](https://twitter.com/Blackamazon/status/819259335712919554) [x2](https://twitter.com/JStein_Vox/status/819222782412226562)
+- [some argument about Buzzfeed and CNN that is difficult to parse at a glance](https://twitter.com/CNNPR/status/819237300668399616)
+- [the black representative has to testify last](https://twitter.com/RepRichmond/status/819254002101710848)
+- [a man’s opinions on “the demagogue”](https://twitter.com/umairh/status/819255093845512193) and [“the way”](https://twitter.com/umairh/status/819252737003163648)
+- [a man’s opinion on “the road to authoritarianism”](https://twitter.com/astroehlein/status/801104889258659840)
+- [reporters being threatened with being thrown out if they try to ask questions](https://twitter.com/USATODAY/status/819236677235462144) [x2](https://twitter.com/jimsciutto/status/819239212377587712)
+- [CNN’s response to Trump’s accusations of false reporting](https://twitter.com/CNN/status/819242348702007302)
+- [a movement to #StopSessions](https://twitter.com/deray/status/819255312075067393)
+- [a man’s](https://twitter.com/tribelaw/status/819252468899086336) [opinions](https://twitter.com/tribelaw/status/819252656199897089)
+- [a number to call to resist Sessions](https://twitter.com/happygirlcoding/status/819251079829303296)
+- [a man reporting ethics lawyer’s reaction to Trump’s plan](https://twitter.com/BenjySarlin/status/819223291760152576)
+- [life in authoritarian states is mostly boring and tolerable](https://twitter.com/davidlsims/status/819249673462546433)
 
 <br />
 
@@ -72,7 +72,7 @@ Every day a new poll, a new number to call. I pick up the phone. I’m worried t
 
 <br />
 
-I first recognized complexity paralysis when I felt it rising in me and around me as a high school teacher during the beginning of No Child Left Behind, when all lesson plans had to be precisely aligned, moment-by-moment, with the state standards, so no district / school / teacher could be sued, in the event of a student failing a high-stakes test, for failure to provide “opportunity to learn.” The exercise was so convoluted and degrading that it sapped the creative energy from teachers and classrooms nationwide, paving the way for online curriculum that was “better” than teachers because it came, out-of-the-box, aligned with the standards. (The Arizona high school standards “placemat” remains a classic in the complexity paralysis genre; “best to print on 11X17 paper.”) 
+I first recognized complexity paralysis when I felt it rising in me and around me as a high school teacher during the beginning of No Child Left Behind, when all lesson plans had to be precisely aligned, moment-by-moment, with the state standards, so no district / school / teacher could be sued, in the event of a student failing a high-stakes test, for failure to provide “opportunity to learn.” The exercise was so convoluted and degrading that it sapped the creative energy from teachers and classrooms nationwide, paving the way for online curriculum that was “better” than teachers because it came, out-of-the-box, aligned with the standards. (The Arizona high school standards “placemat” remains a classic in the complexity paralysis genre; a pdf [“best to print on 11X17 paper.”](https://cms.azed.gov/home/GetDocumentFile?id=55805ef11130c00a00cfedf9)) 
 
 <br />
 
@@ -84,7 +84,7 @@ I am sure very many people have written about complexity paralysis before me —
 
 <br />
 
-The Women’s March on Washington has an amazing Mission & Vision page that is beautiful and thoughtful and better than what I’m writing here. 
+The Women’s March on Washington has an amazing [Mission & Vision](https://www.womensmarch.com/mission/) that is beautiful and thoughtful and better than what I’m writing here. 
 
 <br />
 
@@ -120,7 +120,7 @@ We march because power needs to be reminded what real citizenship looks like.
 
 <br />
 
-Arizona Social Studies Standard Articulated by Grade Level Kindergarten
+[Arizona Social Studies Standard Articulated by Grade Level Kindergarten](https://cms.azed.gov/home/GetDocumentFile?id=550c589faadebe15d072aa12)
 <br />
 Strand 3: Civics/Government
 <br />
@@ -140,7 +140,7 @@ d. responsibility of voting (every vote counts)
 
 <br /><br />
 
-## References
+## Further Reading
 
 (to come)
 
