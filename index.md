@@ -4,6 +4,16 @@ is from the desert.
 
 <br />
 
+## latest work
+
+[LUNA](https://frm.fm/a/patricio_gonzalez_vivo_jen_lowe/luna) is a contemplative vision of the moon and its phases, a moon calendar, a daily clock that enhances awareness. A collaboration with [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com).
+
+[NO. [1/11/17]](http://jenlowe.net/no/)
+
+<br />
+
+## bio
+
 Jen is a gonzo futurist based in Brooklyn, NY and Buenos Aires, Argentina. She writes an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you can subscribe to here:
 
  <form action="https://tinyletter.com/jenlowe" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jenlowe', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"></label></p><p><input type="text" style="width:140px;" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><p style="margin-top:-22px; margin-left:150px;"><input type="submit" value="Subscribe" /></p></form>
