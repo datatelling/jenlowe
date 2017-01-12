@@ -88,7 +88,7 @@ The Women’s March on Washington has an amazing Mission & Vision page that is b
 
 <br />
 
-But today I feel like this, and sometimes you might, too:
+But today I feel like this:
 
 <br />
 
@@ -98,15 +98,15 @@ Why do we march?
 
 We march because 
 
-<br /><br /><br />
+<br />
 
 # NO. 
 
-<br /><br /><br />
+<br />
 
 We march because fuck you, that’s why. We march because power needs to be reminded what real citizenship looks like.
 
-<br />
+<br /><br /><br />
 
 ## Appendix
 
@@ -120,7 +120,7 @@ b. importance of participation and cooperation in a classroom and community
 c. why there are rules and the consequences for violating them 
 d. responsibility of voting (every vote counts)
 
-<br />
+<br /><br /><br />
 
 ## References
 
