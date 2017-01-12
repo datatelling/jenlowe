@@ -1,3 +1,7 @@
+[home](http://jenlowe.net)
+
+<br /><br />
+
 # NO. [1/11/17]
 
 <br />
@@ -152,3 +156,10 @@ d. responsibility of voting (every vote counts)
 
 (to come)
 
+<br /><br />
+
+----------
+
+<br /><br />
+
+[home](http://jenlowe.net)
