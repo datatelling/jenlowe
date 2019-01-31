@@ -12,10 +12,6 @@ is from the desert.
 
 <br />
 
-[NO. [1/11/17]](http://jenlowe.net/no/)
-
-<br />
-
 ## bio
 
 Jen is a gonzo futurist based in Brooklyn, NY and Buenos Aires, Argentina. She writes an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you can subscribe to here:
