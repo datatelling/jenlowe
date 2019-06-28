@@ -44,7 +44,7 @@ If you'd like to hire me for data science, speaking, writing, or an herbal consu
 
 ## selected work
 
-[LUNA](https://frm.fm/a/patricio_gonzalez_vivo_jen_lowe/luna) is a contemplative vision of the moon and its phases, a moon calendar, a daily clock that enhances awareness. A collaboration with [Patricio González Vivo](http://patriciogonzalezvivo.com).
+[LUNA](https://frm.fm/a/patricio_gonzalez_vivo_jen_lowe/luna), with [Patricio González Vivo](http://patriciogonzalezvivo.com).
 
 [Guayupia](http://themapisnot.com/issue-iv-patricio-gonzalez-vivo-jen-lowe), for The Map is Not the Territory, with Patricio González Vivo
 
