@@ -8,7 +8,7 @@ is from the desert.
 
 ## bio
 
-I work with data, code, words, and plants, in Northern California and Buenos Aires. 
+I work with data, code, words, and plants in Northern California and Buenos Aires. 
 
 <br />
 
@@ -18,11 +18,11 @@ I write an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you
 
  <br />
 
- I taught *Math for Artists* at NYU ITP and *Data Visualization* at SVA's Design for Social Innovation program. I was a researcher at the Spatial Information Design Lab at Columbia University. I cofounded the School for Poetic Computation and wrote the essay [Clearing Space](http://stet.editorially.com/articles/clearing-space/) about the first class at SFPC. I've spoken at SXSW and Eyeo, and contributed ideas at the White House Office of Science and Technology Policy. My work has been published in [*Scientific American*](http://www.scientificamerican.com/article/of-pacifiers-and-pearl-harbor-see-the-stuff-first-memories-are-made-of-interactive/) and covered by *The New York Times* and *Fast Company*. I cowrote [The Book of Shaders](https://thebookofshaders.com/) with Patricio González Vivo. From 2014-2016, I shared my heartbeat online as [One Human Heartbeat](http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self).
+ I taught *Math for Artists* at NYU ITP and *Data Visualization* at SVA's Design for Social Innovation program. I was a researcher at the Spatial Information Design Lab at Columbia University. I cofounded the School for Poetic Computation and wrote the essay [Clearing Space](http://stet.editorially.com/articles/clearing-space/) about the first class at SFPC. I've spoken at SXSW and Eyeo, and contributed ideas at the White House Office of Science and Technology Policy. My work has been published in [*Scientific American*](http://www.scientificamerican.com/article/of-pacifiers-and-pearl-harbor-see-the-stuff-first-memories-are-made-of-interactive/) and covered by *The New York Times* and *Fast Company*. I cowrote [The Book of Shaders](https://thebookofshaders.com/) with Patricio González Vivo. From 2014-2016, I shared my heartbeat online as [One Human Heartbeat](http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self). In 2011 I made a [wind visualization](https://vimeo.com/27039654) with a vector flow field derived from lidar data, and a lot of folks took that idea and ran with it ;)
 
  <br />
 
-I'm a member of [deeplab](http://www.deeplab.net/#home), a collaborative group of women researchers, artists, writers, engineers, and cultural producers. I gave this talk in 2014 as part of the deeplab lecture series — it was prescient and I'm particularly proud of it:
+I'm a member of [deeplab](http://www.deeplab.net/#home), a collaborative group of researchers, artists, writers, engineers, and cultural producers. I gave this talk in 2014 as part of the deeplab lecture series — it was prescient and I'm particularly proud of it:
 
 <br />
 
