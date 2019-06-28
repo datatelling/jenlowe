@@ -73,7 +73,7 @@ h3 {
 
 p {
     margin-bottom: -10px;
-    width:600px;
+    width:640px;
 }
 
 a:link {
@@ -83,12 +83,12 @@ a:link {
 
 a:visited {
     text-decoration: none;
-    color: #2528DB;
+    color: #FE006C;
 }
 
 a:hover {
     text-decoration: underline;
-    color: #FF00FF;
+    color: #2528DB;
 }
 
 a:active {
