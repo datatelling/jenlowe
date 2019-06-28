@@ -10,6 +10,9 @@ git pull //gets all the changes from github - I should do this before I'm going 
 
 git add [filename[ // if I have new files I want to add to be tracked (ie add to github & to the webpage)
 
+git commit -am 'descriptive message about changes' // adds changes to a "box" locally
+
+git push // pushes the commit to the server
 
 
 
