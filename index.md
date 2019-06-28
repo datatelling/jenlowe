@@ -6,23 +6,17 @@ is from the desert.
 
 <br />
 
-## latest work
-
-[LUNA](https://frm.fm/a/patricio_gonzalez_vivo_jen_lowe/luna) is a contemplative vision of the moon and its phases, a moon calendar, a daily clock that enhances awareness. A collaboration with [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com).
-
-<br />
-
 ## bio
 
-Jen is a gonzo futurist based in Brooklyn, NY and Buenos Aires, Argentina. She writes an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you can subscribe to here:
+I work with data, code, words, and plants, in the East Bay of San Francisco and Buenos Aires, Argentina. I write an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you can subscribe to here:
 
  <form action="https://tinyletter.com/jenlowe" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jenlowe', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"></label></p><p><input type="text" style="width:140px;" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><p style="margin-top:-22px; margin-left:150px;"><input type="submit" value="Subscribe" /></p></form>
 
  <br />
 
- Jen taught at NYU ITP and SVA's Design for Social Innovation program. She was a researcher at the Spatial Information Design Lab at Columbia University. She cofounded the School for Poetic Computation; she wrote the essay [Clearing Space](http://stet.editorially.com/articles/clearing-space/) about SFPC. She's spoken at SXSW and Eyeo, and contributed ideas at the White House Office of Science and Technology Policy. Her work has been published in [*Scientific American*](http://www.scientificamerican.com/article/of-pacifiers-and-pearl-harbor-see-the-stuff-first-memories-are-made-of-interactive/) and covered by *The New York Times* and *Fast Company*.
+ I taught *Math for Artists* at NYU ITP and *Data Visualization* at SVA's Design for Social Innovation program. I was a researcher at the Spatial Information Design Lab at Columbia University. I cofounded the School for Poetic Computation; I wrote the essay [Clearing Space](http://stet.editorially.com/articles/clearing-space/) about SFPC. I've spoken at SXSW and Eyeo, and contributed ideas at the White House Office of Science and Technology Policy. My work has been published in [*Scientific American*](http://www.scientificamerican.com/article/of-pacifiers-and-pearl-harbor-see-the-stuff-first-memories-are-made-of-interactive/) and covered by *The New York Times* and *Fast Company*. I cowrote [The Book of Shaders](https://thebookofshaders.com/) with Patricio González Vivo.
 
-Jen is a member of [deeplab](http://www.deeplab.net/#home), a collaborative group of women researchers, artists, writers, engineers, and cultural producers. She gave this talk as part of the deeplab lecture series:
+I'm a member of [deeplab](http://www.deeplab.net/#home), a collaborative group of women researchers, artists, writers, engineers, and cultural producers. I gave this talk in 2014 as part of the deeplab lecture series:
 
 <br />
 
@@ -30,6 +24,40 @@ Jen is a member of [deeplab](http://www.deeplab.net/#home), a collaborative grou
 
 <br />
 
-In a previous life, Jen was an independent data scientist and data communicator at Datatelling where she brought together people + numbers + words. For over two years, she shared her heartbeat online as [One Human Heartbeat](http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self).
+From 2014-2016, I shared my heartbeat online as [One Human Heartbeat](http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self). From 2015-2019 I was the primary caregiver for my 2 adorable kids and did a deep dive into studying Western Herbalism and Traditional Chinese Medicine, earning a 2-year Certificate in Clinical Herbal Medicine. Plant medicine is poorly understood and thus wildly underutilized in the US and I'm thrilled to be a part of the herbal resurgence here — the future has an ancient heart. (Someone should hire me to talk about this!)
 
-Jen has a B.S. in Applied Math and a Master's in Information Science. Often oppositional, she's always on the side of love.
+I have a B.S. in Applied Math and a Master's in Information Science.
+
+
+If you'd like to write to me or hire me for data science, speaking, writing, or an herbal consultation, please email jen at jenlowe dot net.
+
+## selected work
+
+[LUNA](https://frm.fm/a/patricio_gonzalez_vivo_jen_lowe/luna) is a contemplative vision of the moon and its phases, a moon calendar, a daily clock that enhances awareness. A collaboration with [Patricio González Vivo](http://patriciogonzalezvivo.com).
+
+[Guayupia](http://themapisnot.com/issue-iv-patricio-gonzalez-vivo-jen-lowe), for The Map is Not the Territory, with Patricio González Vivo
+
+[Library Project](http://c4sr.columbia.edu/projects/library-project)
+
+[Port to Port](http://c4sr.columbia.edu/projects/port-port)
+
+## selected talks
+
+[Deeplab Talk](https://vimeo.com/114393677)
+
+[*Multiple Dimensions*, Eyeo Talk with Laura Kurgan](http://spatialinformationdesignlab.org/news/multiple-dimensions)
+
+[*The New Nature vs. Nurture: Big Data & Identity*, SXSW Talk with Molly Steenson](https://schedule.sxsw.com/2013/events/event_IAP5064)
+
+[*Data & Memory*, Eyeo Ignite Talk](https://www.youtube.com/watch?v=Vbz58tK6lLk&list=PL3FAB9A1E74181136&index=10&t=0s)
+
+## selected writing
+
+[The Book of Shaders](https://thebookofshaders.com/)
+
+[Clearing Space](http://stet.editorially.com/articles/clearing-space/)
+
+[Two-component horizontal aerosol motion vectors in the atmospheric surface layer from a cross-correlation algorithm applied to scanning elastic backscatter lidar data](https://journals.ametsoc.org/doi/pdf/10.1175/JTECH-D-11-00225.1)
+
+
+

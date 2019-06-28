@@ -1,0 +1,58 @@
+how to update my webpage!
+
+open a terminal
+cd to the website directory
+
+git status //tells you what changed locally
+git pull //gets all the changes from github - I should do this before I'm going to make changes
+
+***look below if you get a weird message
+
+git add [filename[ // if I have new files I want to add to be tracked (ie add to github & to the webpage)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** IF it says:
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+THEN:
+sign in to github
+click on website datatelling/jenlowe
+
+profile>settings>SSH Keys
+I don't have any, so:
+Add new
+
+Note: this is super wierd and probably won't happen again
+
+Open another terminal
+$ cat .ssh/id_rsa.pub 
+
+copy the result and paste it in Add new
+
+(now git pull works)
