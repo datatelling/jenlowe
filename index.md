@@ -66,7 +66,7 @@ If you'd like to hire me for data science, speaking, writing, or an herbal consu
 
 <br />
 
-## selected writing
+## selected writing & research
 
 [The Book of Shaders](https://thebookofshaders.com/)
 
