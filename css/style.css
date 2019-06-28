@@ -88,12 +88,12 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
-    color: #2528DB;
+    color: #2600FE;
 }
 
 a:active {
     text-decoration: underline;
-    color: #0000FF;
+    color: #2600FE;
 }
 
 strong {
