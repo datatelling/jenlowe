@@ -8,7 +8,7 @@ is from the desert.
 
 ## bio
 
-I work with data, code, words, and plants, in the East Bay of San Francisco and Buenos Aires, Argentina. 
+I work with data, code, words, and plants, in the Northern California and Buenos Aires. 
 
 <br />
 
@@ -20,7 +20,7 @@ I write an occasional [Sunday Letter](https://tinyletter.com/jenlowe), which you
 
  I taught *Math for Artists* at NYU ITP and *Data Visualization* at SVA's Design for Social Innovation program. I was a researcher at the Spatial Information Design Lab at Columbia University. I cofounded the School for Poetic Computation and wrote the essay [Clearing Space](http://stet.editorially.com/articles/clearing-space/) about the first class at SFPC. I've spoken at SXSW and Eyeo, and contributed ideas at the White House Office of Science and Technology Policy. My work has been published in [*Scientific American*](http://www.scientificamerican.com/article/of-pacifiers-and-pearl-harbor-see-the-stuff-first-memories-are-made-of-interactive/) and covered by *The New York Times* and *Fast Company*. I cowrote [The Book of Shaders](https://thebookofshaders.com/) with Patricio González Vivo. From 2014-2016, I shared my heartbeat online as [One Human Heartbeat](http://www.fastcoexist.com/3028308/this-womans-online-heartbeat-will-make-you-think-about-big-data-and-the-quantified-self).
 
-I'm a member of [deeplab](http://www.deeplab.net/#home), a collaborative group of women researchers, artists, writers, engineers, and cultural producers. I gave this talk in 2014 as part of the deeplab lecture series:
+I'm a member of [deeplab](http://www.deeplab.net/#home), a collaborative group of women researchers, artists, writers, engineers, and cultural producers. I gave this talk in 2014 as part of the deeplab lecture series — it was prescient and I'm particularly proud of it:
 
 <br />
 
@@ -28,11 +28,15 @@ I'm a member of [deeplab](http://www.deeplab.net/#home), a collaborative group o
 
 <br />
 
-From 2015-2019 I was the primary caregiver for my 2 adorable kids and did a deep dive into studying Western Herbalism and Traditional Chinese Medicine, earning a 2-year Certificate in Clinical Herbal Medicine. Plant medicine is poorly understood and thus wildly underutilized in the US and I'm thrilled to be a part of the herbal resurgence here — the future has an ancient heart. (Someone should hire me to talk about this!)
+From 2015-2019 I was the primary caregiver for my 2 adorable kids and did a deep dive into studying Western Herbalism and Traditional Chinese Medicine, earning a 2-year Certificate in Clinical Herbal Medicine. Plant medicine is poorly understood and thus wildly underutilized in the US and I'm thrilled to be a part of the herbal resurgence. (Someone should invite me to talk about this!)
+
+<br />
 
 I have a B.S. in Applied Math and a Master's in Information Science.
 
-If you'd like to write to me or hire me for data science, speaking, writing, or an herbal consultation, please email jen at jenlowe dot net.
+<br />
+
+If you'd like to hire me for data science, speaking, writing, or an herbal consultation, please email jen at jenlowe dot net.
 
 ## selected work
 
@@ -40,9 +44,9 @@ If you'd like to write to me or hire me for data science, speaking, writing, or 
 
 [Guayupia](http://themapisnot.com/issue-iv-patricio-gonzalez-vivo-jen-lowe), for The Map is Not the Territory, with Patricio González Vivo
 
-[Library Project](http://c4sr.columbia.edu/projects/library-project)
+[Library Project](http://c4sr.columbia.edu/projects/library-project), at the SIDL with Laura Kurgan, Derek Watkins, and Annelie Berner
 
-[Port to Port](http://c4sr.columbia.edu/projects/port-port)
+[Port to Port](http://c4sr.columbia.edu/projects/port-port), at the SIDL with Laura Kurgan, Derek Watkins, and Annelie Berner
 
 ## selected talks
 
